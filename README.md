@@ -44,3 +44,17 @@ npm start
 │   ├── src/
 ├── requirements.txt
 ├── README.md
+
+## 📊 Results
+![image](https://github.com/user-attachments/assets/972ae73f-647f-49aa-9c87-02b0ec7d209e)
+![image](https://github.com/user-attachments/assets/2c4f32b0-f5df-47ca-8f75-6278ec7f4084)
+![image](https://github.com/user-attachments/assets/1262043a-a124-401e-8fa3-d4f3d451f1cf)
+![image](https://github.com/user-attachments/assets/500247ec-d703-4194-a1b6-73acde6d76b1)
+![image](https://github.com/user-attachments/assets/5d796b1a-93f3-44e5-a0fa-1f872fc76ad6)
+![image](https://github.com/user-attachments/assets/aa8deff5-2162-4624-87bf-78dd42d9c9bf)
+
+
+
+
+
+
